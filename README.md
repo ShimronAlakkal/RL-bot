@@ -10,3 +10,7 @@ Image from `Learn python with Rune`
 
 [CODE](https://github.com/ShimronAlakkal/ql-env-and-agent/blob/main/QL.ipynb)
   
+## 2 . Path Finder (in development)
+> Path Finder is a simple environment, defined by and m X n square -- where m = no columns, n = no rows -- having obstacles at some fixed positions. The agent and destination are completely mobile on the board, i.e. they could be anywhere on the board except for the points where the obstacles are at.
+
+
